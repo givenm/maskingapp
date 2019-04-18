@@ -1,2 +1,4 @@
 # maskingapp
-Java app that helps masking values in variables
+Java app that uses reflection to masking values in variables and produces a String result
+
+
